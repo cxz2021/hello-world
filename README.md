@@ -1,2 +1,2 @@
 # hello-world
-just a nes repository
+just a new repository
